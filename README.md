@@ -1,4 +1,4 @@
-# Fortday
+# Fortday btw Microsoft sucks
 A multiplayer game using NodeJS and socket.io for real time interaction.
 A bad clone of [surviv.io](http://surviv.io/)
 iteration of [nodecube](https://github.com/bjubes/nodecube)
